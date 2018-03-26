@@ -12,3 +12,4 @@ _xml(){
 ls |grep -E "B*.sql" && _sql
 ls |grep -E "B*.xml" && _xml
 sh /data/scripts/updateAdmin.sh restart
+1
